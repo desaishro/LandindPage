@@ -12,6 +12,7 @@ Services Section: Highlighting three core services provided by BrandSphere, incl
 FAQ Section: Answers to commonly asked questions about branding and the services offered.
 Footer: Includes social media links and contact information for easy communication with potential clients.
 Call-to-Action: Buttons throughout the page to encourage visitors to get in touch or learn more about services.
+
 Key Sections:
 About Us: Learn about BrandSphere, its values, and its approach to creative branding.
 Services: Discover the core services offered, including logo design, brand strategy, and more.
